@@ -3,8 +3,8 @@ Pod::Spec.new do |s|
   s.version = '0.3.1'
   s.license = 'MIT'
   s.summary = 'A UIView hosting row for use with the Eureka form library'
-  s.homepage = 'https://github.com/EurekaCommunity/ViewRow'
-  s.source = { :git => 'https://github.com/EurekaCommunity/ViewRow.git' }
+  s.homepage = 'https://github.com/stvalentin/ViewRow'
+  s.source = { :git => 'https://github.com/stvalentin/ViewRow.git' }
   s.ios.deployment_target = '8.0'
   s.ios.frameworks = 'UIKit', 'Foundation'
   s.source_files = 'ViewRow/**/*.swift'
